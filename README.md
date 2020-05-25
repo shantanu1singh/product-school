@@ -7,3 +7,5 @@ _Spotify Circles_ aims to remove the hassle that users feel while using the plat
 To learn more about the feature, you can read a sample [Press Release](PressRelease.md) covering the feature.
 
 For a more detailed specification, you can refer to the [Product Requirements Document](PRD.md) created for the feature.
+
+Please review the final [slide deck](SpotifyPS.pptx) to get an overview of the proposed feature.
